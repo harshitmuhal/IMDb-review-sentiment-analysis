@@ -14,6 +14,6 @@ Implementation is inspired from the paper - https://ieeexplore.ieee.org/document
 
 # Experimentation :
 
-<img src=" " height=" " width=" ">
+<img src="exp.png">
 
 
