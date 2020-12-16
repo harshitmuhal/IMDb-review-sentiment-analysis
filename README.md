@@ -10,6 +10,6 @@ Implementation is inspired from the paper - https://ieeexplore.ieee.org/document
 # Model-2 Architecture:
 <img src='model2.png' height=800 width=700 >
 
-# Accuracy - 89.20%
+# Accuracy - 89.39%
 
 
